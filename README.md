@@ -1,5 +1,5 @@
 # Trivia
 
-Trivia App made in Angular. Project for Coding & Cocktails SPA Session.
+Trivia App made in Angular. 
 <br><br>
 ![Home](/img/pic.png 'Screenshot')
